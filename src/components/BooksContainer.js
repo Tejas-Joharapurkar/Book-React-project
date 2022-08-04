@@ -5,7 +5,7 @@ import Book from './Book'
 // import Modal from './Modal';
 // import Alert from './Alert';
 const BooksContainer = () => {
-    const { list, alert, closealert } = useGlobalContext();
+    const { list } = useGlobalContext();
     return (
         <>
             {/* <Modal {...alert} />
