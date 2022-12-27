@@ -1,10 +1,10 @@
 import React from 'react'
-import Featured from '../components/Featured';
+import Products from './Products';
 
 const Home = () => {
     return (
         <section className='section'>
-            <Featured />
+            <Products />
         </section>
     );
 }

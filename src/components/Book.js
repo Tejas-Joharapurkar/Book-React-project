@@ -20,7 +20,7 @@ const Book = ({ id, title, img, price, author, }) => {
                             <MdAddShoppingCart />
                         </button>
 
-                        <Link to={`/book/${id}`} className='btn btn-primary'>
+                        <Link to={`/${id}`} className='btn btn-primary'>
                             more
                         </Link>
                     </div>

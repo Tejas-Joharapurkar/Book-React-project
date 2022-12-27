@@ -21,7 +21,7 @@ const SingleBook = () => {
                     <p>{price}</p>
                 </div>
                 <div>
-                    <Link to='/books' className='btn btn-primary'>
+                    <Link to='/' className='btn btn-primary'>
                         back
                     </Link>
                     <button className='addcart' onClick={() => addtocart(parseInt(id))}>

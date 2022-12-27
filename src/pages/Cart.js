@@ -15,7 +15,7 @@ const Cart = () => {
                     const { img, title, amount, id, price, } = total
                     return (
                         <div className="one-book-cart" key={id}>
-                            <Link to={`/book/${id}`}>
+                            <Link to={`/${id}`}>
                                 <img src={img} alt="" className="book-img-modal img" />
                             </Link>
                             <div className="cart-info">

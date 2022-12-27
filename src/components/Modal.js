@@ -17,7 +17,7 @@ const Modal = ({ msg, title, img, price, amount }) => {
                         <p>Quntity:{amount}</p>
                     </article>
                 </div>
-                <Link to='/books' onClick={closemodal} className='btn btn-primary'>
+                <Link to='/' onClick={closemodal} className='btn btn-primary'>
                     continue shopping
                 </Link>
                 <Link to='/cart' className='btn btn-primary' onClick={closemodal}>
