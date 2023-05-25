@@ -126,21 +126,21 @@ export const books = [
 ];
 
 export const links = [
-    // {
-    //     id: 10,
-    //     url: '/',
-    //     text: 'home',
-    // },
-    // {
-    //     id: 11,
-    //     url: '/about',
-    //     text: 'about',
-    // },
-    // {
-    //     id: 12,
-    //     url: '/books',
-    //     text: 'Books',
-    // },
+    {
+        id: 10,
+        url: '/',
+        text: 'home',
+    },
+    {
+        id: 11,
+        url: '/about',
+        text: 'about',
+    },
+    {
+        id: 12,
+        url: '/books',
+        text: 'Books',
+    },
 ];
 export const social = [
     {
