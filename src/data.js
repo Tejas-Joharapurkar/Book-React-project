@@ -142,28 +142,28 @@ export const links = [
         text: 'Books',
     },
 ];
-export const social = [
-    {
-        id: 13,
-        url: 'https://www.twitter.com',
-        icon: <FaFacebook />,
-    },
-    {
-        id: 14,
-        url: 'https://www.twitter.com',
-        icon: <FaTwitter />,
-    },
-    {
-        id: 15,
-        url: 'https://www.twitter.com',
-        icon: <FaLinkedin />,
-    },
-    {
-        id: 16,
-        url: 'https://www.twitter.com',
-        icon: <FaBehance />,
-    },
-];
+// export const social = [
+//     {
+//         id: 13,
+//         url: 'https://www.twitter.com',
+//         icon: <FaFacebook />,
+//     },
+//     {
+//         id: 14,
+//         url: 'https://www.twitter.com',
+//         icon: <FaTwitter />,
+//     },
+//     {
+//         id: 15,
+//         url: 'https://www.twitter.com',
+//         icon: <FaLinkedin />,
+//     },
+//     {
+//         id: 16,
+//         url: 'https://www.twitter.com',
+//         icon: <FaBehance />,
+//     },
+// ];
 
 export const featured = [
     {
