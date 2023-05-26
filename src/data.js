@@ -58,7 +58,7 @@ export const books = [
         title: 'Harry potter and the philosophers stone',
         author: 'harry potter',
         incart: false,
-        price: 17,
+        price: 7,
         info: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores commodi vitae ipsam quae id ad aliquam. Magni quod ad quidem hic, tempore, mollitia ducimus illo laborum, sunt nisi culpa odio nihil animi exercitationem deserunt!`,
         category: 'kids',
     },
