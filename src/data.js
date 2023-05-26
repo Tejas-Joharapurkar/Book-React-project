@@ -5,7 +5,7 @@ export const books = [
     {
         id: 1,
         img: 'https://images-eu.ssl-images-amazon.com/images/I/41eD2PjsHgL._AC_SX184_.jpg',
-        title: 'Ghost Hunter Gaurav Tiwari',
+        title: 'Ghost Hunter',
         author: 'Abhirup Dhar',
         incart: false,
         price: 1,
