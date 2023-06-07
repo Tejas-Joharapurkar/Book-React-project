@@ -48,7 +48,7 @@ export const books = [
         title: 'The Japanese secret to a long and happy life',
         author: 'Héctor García',
         incart: false,
-        price: 230,
+        price: 23,
         info: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores commodi vitae ipsam quae id ad aliquam. Magni quod ad quidem hic, tempore, mollitia ducimus illo laborum, sunt nisi culpa odio nihil animi exercitationem deserunt!`,
         category: 'horror',
     },
