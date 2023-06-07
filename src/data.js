@@ -69,7 +69,7 @@ export const books = [
         title: 'Ghost Hunter Gaurav Tiwari',
         author: 'Abhirup Dhar',
         incart: false,
-        price: 15,
+        price: 5,
         info: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores commodi vitae ipsam quae id ad aliquam. Magni quod ad quidem hic, tempore, mollitia ducimus illo laborum, sunt nisi culpa odio nihil animi exercitationem deserunt!`,
         category: 'thriller',
     },
