@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaBehance, FaFacebook, FaLinkedin, FaTwitter } from 'react-icons/fa';
 
-export const books = [
+export const book = [
     {
         id: 1,
         img: 'https://images-eu.ssl-images-amazon.com/images/I/41eD2PjsHgL._AC_SX184_.jpg',
