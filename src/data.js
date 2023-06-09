@@ -8,7 +8,7 @@ export const books = [
         title: 'Ghost Hunter',
         author: 'Abhirup Dhar',
         incart: false,
-        price: 10,
+        price: 2.0,
         info: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores commodi vitae ipsam quae id ad aliquam. Magni quod ad quidem hic, tempore, mollitia ducimus illo laborum, sunt nisi culpa odio nihil animi exercitationem deserunt!`,
         category: 'horror',
     },
