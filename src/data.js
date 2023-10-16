@@ -38,7 +38,7 @@ export const books = [
         title: 'Charlie and the Chocolate Factory',
         author: 'Roald Dhal',
         incart: false,
-        price: 170,
+        price: 170.00,
         info: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores commodi vitae ipsam quae id ad aliquam. Magni quod ad quidem hic, tempore, mollitia ducimus illo laborum, sunt nisi culpa odio nihil animi exercitationem deserunt!`,
         category: 'kids',
     },
